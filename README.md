@@ -1,10 +1,16 @@
-### Hi there 👋
+### Hi 👋
 
+My name is Luis Felipe, I'm from Brazil 🇧🇷 I am studying information systems 🧑‍💻.
+
+
+
+
+###       🌎 Do it 💻
+- From MG living in Poço Fundo 🍃
+- Studying Flutter
 <!--
 **Luis-Felipe-Santos/Luis-Felipe-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
