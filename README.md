@@ -7,7 +7,9 @@ My name is Luis Felipe, I'm from Brazil I am studying information systems 🧑�
 
 ###       🌎 Do it 💻
 - From MG living in Poço Fundo 🍃
-- Studying Flutter
+- Bacharel Sistemas de Informação
+- Especializando Desenvolvimento Web Full Stack
+- HTML - CSS - JS 
 
 Reach me out 👇🏼
 
