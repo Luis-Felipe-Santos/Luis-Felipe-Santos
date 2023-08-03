@@ -9,7 +9,7 @@ My name is Luis Felipe, I'm from Brazil I am studying information systems 🧑�
 - From MG living in Poço Fundo 🍃
 - Bacharel Sistemas de Informação
 - Especializando Desenvolvimento Web Full Stack
-- HTML - CSS - JS 
+- HTML - CSS - JS - VueJs - Estudando NodeJS
 
 Reach me out 👇🏼
 
