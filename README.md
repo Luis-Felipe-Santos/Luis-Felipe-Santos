@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name is Luis Felipe, I'm from Brazil I am studying information systems 🧑‍💻.
+My name is Luis Felipe 🧑‍💻.
 
 
 
