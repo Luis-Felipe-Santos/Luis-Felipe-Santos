@@ -9,7 +9,8 @@ My name is Luis Felipe 🧑‍💻.
 - From MG living in Poço Fundo 🍃
 - Bacharel Sistemas de Informação
 - Especializando Desenvolvimento Web Full Stack
-- HTML - CSS - JS - VueJs - Estudando NodeJS
+- No momento trabalhando como dev Front-End
+- HTML - CSS - JS - VueJs 
 
 Reach me out 👇🏼
 
