@@ -1,15 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Luis+Felipe;Desenvolvedor+Frontend+focado+em+Vue+e+Nuxt;Criando+interfaces+modernas+e+perform%C3%A1ticas)](https://git.io/typing-svg)
 
-<img align="right" height="140" src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" />
-
----
+<table>
+<tr>
+<td width="75%">
 
 ### 👨‍💻 Desenvolvedor Frontend | Vue.js • Nuxt • JavaScript • TypeScript
 
-Sou desenvolvedor com foco em **aplicações web modernas, responsivas e escaláveis**, atuando principalmente no frontend com **Vue 3 e Nuxt**, estudando **Java**, **SpringBoot** e **Angular** .  
-Tenho formação em **Sistemas de Informação** e **Pós-graduação em Desenvolvimento Web**, sempre buscando evoluir em boas práticas e arquitetura frontend.
+Sou desenvolvedor com foco em **aplicações web modernas, responsivas e escaláveis**, atuando principalmente no frontend com **Vue 3 e Nuxt**, estudando **Java**, **Spring Boot** e **Angular**.  
+Tenho formação em **Sistemas de Informação** e **Pós-graduação em Desenvolvimento Web**.
 
----
+</td>
+<td width="25%" align="right">
+
+<img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" height="100%"/>
+
+</td>
+</tr>
+</table>
 
 ### 🚀 Atualmente
 - Estudando **boas práticas de frontend** e organização de projetos
@@ -32,6 +39,8 @@ Tenho formação em **Sistemas de Informação** e **Pós-graduação em Desenvo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" />
   <img width="12" />
