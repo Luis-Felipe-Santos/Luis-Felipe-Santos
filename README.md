@@ -48,5 +48,6 @@
 
 ###
 
-![Snake animation](https://github.com/Luis-Felipe-Santos/Luis-Felipe-Santos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Luis-Felipe-Santos/Luis-Felipe-Santos/output/github-contribution-grid-snake.svg)
+
 
